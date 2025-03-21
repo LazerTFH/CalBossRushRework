@@ -1,0 +1,5 @@
+displayName = Calamity Boss Rush Rework
+author = LazerTFH
+version = 0.1.1
+buildIgnore = *.dll
+modReferences = CalamityMod@2.0.4.1
