@@ -1,6 +1,11 @@
 Items: {
 	TerminuX: {
-		DisplayName: Terminu X
-		Tooltip: ""
+		DisplayName: TerminuX
+		Tooltip: 
+		'''
+			An unkown artifact crafted from the Terminus
+			Usin it will summon a powerfull entity for a test...
+			[c/1accd8: Be prepared for gauntlet of endurance]
+		'''
 	}
 }
